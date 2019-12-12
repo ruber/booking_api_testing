@@ -1,0 +1,8 @@
+com\billie\test\booking\BookingTest.class
+com\billie\test\booking\model\Booking$BookingDates.class
+com\billie\test\booking\utilities\ServiceCalls.class
+com\billie\test\booking\model\Booking.class
+com\billie\test\booking\model\Authentication.class
+com\billie\test\booking\steps\BookingSteps.class
+com\billie\test\booking\utilities\BookingParser.class
+com\billie\test\booking\model\BookingResponse.class
